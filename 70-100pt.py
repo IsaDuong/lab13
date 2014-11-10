@@ -43,7 +43,7 @@ class MyApp:
        	    
        	    self.right = Button(self.myContainer1)
        	    self.right.configure(text="Right", background= "white")
-       	    self.right.grid(row=1,column=3)
+       	    self.right.grid(row=1,column=2)
        	    
        	    self.down = Button(self.myContainer1)
        	    self.down.configure(text="Down", background= "white")
